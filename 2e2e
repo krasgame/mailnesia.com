@@ -1,0 +1,11 @@
+If I send an Email from my private Mail Account (google) I get this Error:
+Delivery to the following recipient failed permanently:
+
+ khitupamarosu271@mailnesia.com
+Technical details of permanent failure:
+Google tried to deliver your message, but it was rejected by the server for the recipient domain mailnesia.com by mailnesia.com. [162.250.144.109].
+
+The error that the other server returned was:
+500 Internal Server Error
+
+Can someone help me to solve this?
